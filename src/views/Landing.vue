@@ -14,7 +14,7 @@
             </h4>
             <br />
             <md-button
-              href="http://127.0.0.1:8081/#/profile"
+              href="#/profile"
               class="md-success md-lg"
               ><i class="fas fa-stethoscope"></i> Entre agora</md-button
             >
